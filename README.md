@@ -7,11 +7,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Neja Lifestyle Roleplay]**
+- 🔭 I’m currently working on **<a href="https://sparkbox.pro/" target="_blank">SparkBox</a> **
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **React**
 
-- 👨‍💻 Most of my projects are not available
+- 👨‍💻 Available Project right now is **<a href="https://sparkbox.pro" target="_blank">SparkBox</a> **
 
 - 📫 How to reach me **Lykcord#3387**
 
@@ -20,8 +20,7 @@
 ## 🚀 Projects, Languages and Tools:
 
 <p align="left">  
-    <a href="https://nejalifestyle.de/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/922627634716868609/923332329173291008/melone__.png"/> </a> 
-    <a href="https://nejalifestyle.de/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/922627634716868609/923353552607412325/melone__.png"/> </a> 
+    <a href="https://sparkbox.pro/" target="_blank"> <img src="https://media.discordapp.net/attachments/1077675785734864967/1079410530952937633/logo_sparkbox.png?"/> </a> 
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
@@ -30,15 +29,4 @@
 </p>
 
 <br/>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Lykcord/github-readme-stats"><img alt="Maddox Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lykcord&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Lykcord/github-readme-stats"><img alt="Maddox Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lykcord&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/Lykcord/github-readme-activity-graph"><img alt="Maddox Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Lykcord&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
