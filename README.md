@@ -7,11 +7,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **<a href="https://sparkbox.pro/" target="_blank">SparkBox</a> **
+- 🔭 I’m currently working on <a href="https://sparkbox.pro/" target="_blank">**SparkBox**</a>
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Available Project right now is **<a href="https://sparkbox.pro" target="_blank">SparkBox</a> **
+- 👨‍💻 Available Project right now is <a href="https://sparkbox.pro" target="_blank">**SparkBox**</a>
 
 - 📫 How to reach me **Lykcord#3387**
 
@@ -20,8 +20,8 @@
 ## 🚀 Projects, Languages and Tools:
 
 <p align="left">  
-    <a href="https://sparkbox.pro/" target="_blank"> <img src="https://media.discordapp.net/attachments/1077675785734864967/1079410530952937633/logo_sparkbox.png?"/> </a> 
-    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
+    <a href="https://sparkbox.pro/" target="_blank"> <img src="https://media.discordapp.net/attachments/1079815189521780776/1079864020238082118/logo_sparkbox.png"/> </a> 
+    <a href="https://kotlinlang.org/" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/kotlin.png](https://img.icons8.com/color/48/000000/kotlin.png)"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
