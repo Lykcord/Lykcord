@@ -1,32 +1,13 @@
-
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Lykcord!</h1>
-<h3 align="center">I'm a passionate Developer from Germany.</h3>
+# Hello there, 👋
 
 
-## 🙋‍♂️ About Me
+##### Specs
+- ![CPU](https://img.shields.io/badge/INTEL-i5_7600k-00C7FD?style=for-the-badge&logo=intel)
+- ![GPU](https://img.shields.io/badge/NVIDIA-GTX_1060_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- ![OS](https://img.shields.io/badge/Windows-1793d1?style=for-the-badge&logoColor=white&logo=windows)
 
-- 🔭 I’m currently working on <a href="https://sparkbox.pro/" target="_blank">**SparkBox**</a>
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 Available Project right now is <a href="https://sparkbox.pro" target="_blank">**SparkBox**</a>
-
-- 📫 How to reach me **Lykcord#3387**
-
-- ⚡ Fun fact **I play games.**
-
-## 🚀 Projects, Languages and Tools:
-
-<p align="left">  
-    <a href="https://sparkbox.pro/" target="_blank"> <img src="https://media.discordapp.net/attachments/1079815189521780776/1079864020238082118/logo_sparkbox.png"/> </a> 
-    <a href="https://kotlinlang.org/" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/kotlin.png](https://img.icons8.com/color/48/000000/kotlin.png)"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-</p>
-
-<br/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lykcord.github.io/Lykcord/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://lykcord.github.io/Lykcord/github-contribution-grid-snake.svg" />
+  <img alt="Snek" src="https://lykcord.github.io/Lykcord/github-contribution-grid-snake.svg" />
+</picture>
